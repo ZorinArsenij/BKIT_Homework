@@ -1,0 +1,9 @@
+/Users/zorin/Projects/Lab_8_HW/Lab_8_HW/obj/x86/Debug/Lab_8_HW.fsprojResolveAssemblyReference.cache
+/Users/zorin/Projects/Lab_8_HW/Lab_8_HW/obj/x86/Debug/Lab_8_HW.fsproj.CoreCompileInputs.cache
+/Users/zorin/Projects/Lab_8_HW/Lab_8_HW/bin/Debug/Lab_8_HW.exe
+/Users/zorin/Projects/Lab_8_HW/Lab_8_HW/bin/Debug/Lab_8_HW.exe.mdb
+/Users/zorin/Projects/Lab_8_HW/Lab_8_HW/bin/Debug/FSharp.Core.dll
+/Users/zorin/Projects/Lab_8_HW/Lab_8_HW/bin/Debug/System.ValueTuple.dll
+/Users/zorin/Projects/Lab_8_HW/Lab_8_HW/bin/Debug/FSharp.Core.xml
+/Users/zorin/Projects/Lab_8_HW/Lab_8_HW/obj/x86/Debug/Lab_8_HW.exe
+/Users/zorin/Projects/Lab_8_HW/Lab_8_HW/obj/x86/Debug/Lab_8_HW.exe.mdb
